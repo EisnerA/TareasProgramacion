@@ -1,0 +1,17 @@
+C:\Users\MSI\Documentos\2M4-SIS-S II ST\POGRAMACION DE APLICACIONES DE ESCRITORIO\Practica_VE\ValidacionExpedientes\ValidacionExpedientes\bin\Debug\net8.0-windows\ValidacionExpedientes.exe
+C:\Users\MSI\Documentos\2M4-SIS-S II ST\POGRAMACION DE APLICACIONES DE ESCRITORIO\Practica_VE\ValidacionExpedientes\ValidacionExpedientes\bin\Debug\net8.0-windows\ValidacionExpedientes.deps.json
+C:\Users\MSI\Documentos\2M4-SIS-S II ST\POGRAMACION DE APLICACIONES DE ESCRITORIO\Practica_VE\ValidacionExpedientes\ValidacionExpedientes\bin\Debug\net8.0-windows\ValidacionExpedientes.runtimeconfig.json
+C:\Users\MSI\Documentos\2M4-SIS-S II ST\POGRAMACION DE APLICACIONES DE ESCRITORIO\Practica_VE\ValidacionExpedientes\ValidacionExpedientes\bin\Debug\net8.0-windows\ValidacionExpedientes.dll
+C:\Users\MSI\Documentos\2M4-SIS-S II ST\POGRAMACION DE APLICACIONES DE ESCRITORIO\Practica_VE\ValidacionExpedientes\ValidacionExpedientes\bin\Debug\net8.0-windows\ValidacionExpedientes.pdb
+C:\Users\MSI\Documentos\2M4-SIS-S II ST\POGRAMACION DE APLICACIONES DE ESCRITORIO\Practica_VE\ValidacionExpedientes\ValidacionExpedientes\obj\Debug\net8.0-windows\ValidacionExpedientes.Form1.resources
+C:\Users\MSI\Documentos\2M4-SIS-S II ST\POGRAMACION DE APLICACIONES DE ESCRITORIO\Practica_VE\ValidacionExpedientes\ValidacionExpedientes\obj\Debug\net8.0-windows\ValidacionExpedientes.csproj.GenerateResource.cache
+C:\Users\MSI\Documentos\2M4-SIS-S II ST\POGRAMACION DE APLICACIONES DE ESCRITORIO\Practica_VE\ValidacionExpedientes\ValidacionExpedientes\obj\Debug\net8.0-windows\ValidacionExpedientes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI\Documentos\2M4-SIS-S II ST\POGRAMACION DE APLICACIONES DE ESCRITORIO\Practica_VE\ValidacionExpedientes\ValidacionExpedientes\obj\Debug\net8.0-windows\ValidacionExpedientes.AssemblyInfoInputs.cache
+C:\Users\MSI\Documentos\2M4-SIS-S II ST\POGRAMACION DE APLICACIONES DE ESCRITORIO\Practica_VE\ValidacionExpedientes\ValidacionExpedientes\obj\Debug\net8.0-windows\ValidacionExpedientes.AssemblyInfo.cs
+C:\Users\MSI\Documentos\2M4-SIS-S II ST\POGRAMACION DE APLICACIONES DE ESCRITORIO\Practica_VE\ValidacionExpedientes\ValidacionExpedientes\obj\Debug\net8.0-windows\ValidacionExpedientes.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Documentos\2M4-SIS-S II ST\POGRAMACION DE APLICACIONES DE ESCRITORIO\Practica_VE\ValidacionExpedientes\ValidacionExpedientes\obj\Debug\net8.0-windows\ValidacionExpedientes.dll
+C:\Users\MSI\Documentos\2M4-SIS-S II ST\POGRAMACION DE APLICACIONES DE ESCRITORIO\Practica_VE\ValidacionExpedientes\ValidacionExpedientes\obj\Debug\net8.0-windows\refint\ValidacionExpedientes.dll
+C:\Users\MSI\Documentos\2M4-SIS-S II ST\POGRAMACION DE APLICACIONES DE ESCRITORIO\Practica_VE\ValidacionExpedientes\ValidacionExpedientes\obj\Debug\net8.0-windows\ValidacionExpedientes.pdb
+C:\Users\MSI\Documentos\2M4-SIS-S II ST\POGRAMACION DE APLICACIONES DE ESCRITORIO\Practica_VE\ValidacionExpedientes\ValidacionExpedientes\obj\Debug\net8.0-windows\ValidacionExpedientes.genruntimeconfig.cache
+C:\Users\MSI\Documentos\2M4-SIS-S II ST\POGRAMACION DE APLICACIONES DE ESCRITORIO\Practica_VE\ValidacionExpedientes\ValidacionExpedientes\obj\Debug\net8.0-windows\ref\ValidacionExpedientes.dll
+C:\Users\MSI\Documentos\2M4-SIS-S II ST\POGRAMACION DE APLICACIONES DE ESCRITORIO\Practica_VE\ValidacionExpedientes\ValidacionExpedientes\obj\Debug\net8.0-windows\Validaci.6D9E2E2E.Up2Date

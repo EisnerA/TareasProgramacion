@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MSI\\Documentos\\2M4-SIS-S II ST\\POGRAMACION DE APLICACIONES DE ESCRITORIO\\Practica_VE\\ValidacionExpedientes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6F09B413-63F0-4BC9-AB40-87B65F6591BB}|ValidacionExpedientes\\ValidacionExpedientes.csproj|c:\\users\\msi\\documentos\\2m4-sis-s ii st\\pogramacion de aplicaciones de escritorio\\practica_ve\\validacionexpedientes\\validacionexpedientes\\formularios\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F09B413-63F0-4BC9-AB40-87B65F6591BB}|ValidacionExpedientes\\ValidacionExpedientes.csproj|solutionrelative:validacionexpedientes\\formularios\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Documentos\\2M4-SIS-S II ST\\POGRAMACION DE APLICACIONES DE ESCRITORIO\\Practica_VE\\ValidacionExpedientes\\ValidacionExpedientes\\Formularios\\Form1.cs",
+              "RelativeDocumentMoniker": "ValidacionExpedientes\\Formularios\\Form1.cs",
+              "ToolTip": "C:\\Users\\MSI\\Documentos\\2M4-SIS-S II ST\\POGRAMACION DE APLICACIONES DE ESCRITORIO\\Practica_VE\\ValidacionExpedientes\\ValidacionExpedientes\\Formularios\\Form1.cs",
+              "RelativeToolTip": "ValidacionExpedientes\\Formularios\\Form1.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAuwCIAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T17:40:09.996Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
